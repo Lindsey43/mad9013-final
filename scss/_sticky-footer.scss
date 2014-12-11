@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+.wrapper {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -142px; 
+}
+.wrapper:after {
+  content: "";
+  display: block;
+}
+.foot, .wrapper:after {
+  height: 142px; 
+}
+.foot {
+   background: #7777ff;
+   clear:both;
+   text-align: center;
+   margin-bottom: 5px;
+}

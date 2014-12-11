@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M466.5,478.2L314,477.6c-53-0.2-96.1-43.7-95.9-96.7l0.5-130.5
+	c0.2-53,43.7-96.1,96.7-95.9l152.5,0.6c53,0.2,96.1,43.7,95.9,96.7l-0.5,130.5C563,435.3,519.5,478.4,466.5,478.2z"/>
+<text transform="matrix(0.7446 0 0 1 253.9153 450.7925)" font-family="'Mistral'" font-size="74.2144">Swim for a cure</text>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="264.44" y1="325.3645" x2="458.3335" y2="325.3645">
+		<stop  offset="0" style="stop-color:#AFD1EE"/>
+		<stop  offset="0.5" style="stop-color:#A7CDEC"/>
+		<stop  offset="1" style="stop-color:#51A9DD"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M301.4,379.5c-1.9,0.1-105.5,16.6,42.9-76.8c1.5-0.9,3-1.9,4.6-2.9
+		C503.9,203.2,499.7,372.7,301.4,379.5z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="416.0847" y1="223.9492" x2="539.8135" y2="223.9492">
+		<stop  offset="0" style="stop-color:#AFD1EE"/>
+		<stop  offset="0.5" style="stop-color:#A7CDEC"/>
+		<stop  offset="1" style="stop-color:#51A9DD"/>
+	</linearGradient>
+	<ellipse fill="url(#SVGID_2_)" cx="477.9" cy="223.9" rx="61.9" ry="51.3"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="283.7971" y1="312.8529" x2="387.8136" y2="312.8529">
+		<stop  offset="0" style="stop-color:#AFD1EE"/>
+		<stop  offset="0.5" style="stop-color:#A7CDEC"/>
+		<stop  offset="1" style="stop-color:#51A9DD"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" d="M288.7,340.5c0,0,13.6-81.4,99.2-46.6C387.8,293.9,257.3,287.9,288.7,340.5z"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="394.8977" y1="373.6223" x2="496.4536" y2="373.6223">
+		<stop  offset="0" style="stop-color:#AFD1EE"/>
+		<stop  offset="0.5" style="stop-color:#A7CDEC"/>
+		<stop  offset="1" style="stop-color:#51A9DD"/>
+	</linearGradient>
+	<path fill="url(#SVGID_4_)" d="M400.9,343.8c0,0,7.8,82.1,95.6,53.5C496.5,397.4,365.9,394,400.9,343.8z"/>
+</g>
+</svg>

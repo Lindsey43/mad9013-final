@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAD9013 Final</title>
+    <link rel="stylesheet" href="css/bootstrap-theme.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/main.css">
+    
+</head>
+
+<body class="signup">
+    <!-- Fixed navbar -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    
+    <div class="container">
+    <div class="navbar-header">
+    
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"></button> 
+    <a class="navbar-brand" href="#">MAD9013 Final</a>
+        
+    </div>
+<div id="navbar" class="collaspe navbar-collapse">
+        <ul class="nav navbar-nav">
+    
+       
+            
+        <li> <a href="about.html">Standings</a>  </li> 
+        <li> <a href="location.html">Location</a>   </li>
+        <li> <a href="signup.html">Sign Up</a>      </li>
+    </ul>
+        
+</div>
+        <!--/.nav-collapse -->
+        
+        </div>
+    
+    </nav>
+    
+    <div class="wrapper">
+      
+      
+        <h1><img src="img/Bootstrap-logo.svg" alt="Swimming"/></h1>
+ <form class="form">
+    <fieldset>
+        <legend>Personal Info</legend>
+        <table cellpadding="3">
+          <tr><td width="150px"><strong>Username (Email)</strong></td><td><input type="text" name="username"></td></tr>
+          <tr><td><strong>First name</strong></td><td><input type="text" name="firstname"></td></tr>
+          <tr><td><strong>Last name</strong></td><td><input type="text" name="lastname"></td></tr>
+        </table>
+    </fieldset>
+
+    <fieldset>
+        <legend>Additional info</legend>
+        <table cellpadding="3">
+            <tr>
+                <td width="150px"><strong>Web Url</strong></td>
+                <td><input type="text" name="data1"></td>
+            </tr>
+            <tr>
+                <td><strong>Company name</strong></td>
+                <td><input type="text" name="data2"></td>
+            </tr>
+            <tr>
+                <td><strong>Street</strong></td>
+                <td><input type="text" name="data3"></td>
+            </tr>
+            <tr>
+                <td><strong>City</strong></td>
+                <td><input type="text" name="data4"></td>
+            </tr>
+            <tr>
+                <td><strong>State</strong></td>
+                <td><input type="text" name="data5"></td>
+            </tr>
+            <tr>
+                <td><strong>Country</strong></td>
+                <td><input type="text" name="data6"></td>
+            </tr>
+        </table>
+    </fieldset>
+
+    <fieldset style="text-align: center">
+        <legend>Terms & conditions</legend>
+
+        <div cols="50" rows="5">You can write your own terms and conditions here</div>
+
+        <p> I confirm that I agree with terms and conditions</p> <input type="checkbox" name="agreeWithTerms" value="Y" id="agreecheck">
+
+
+        <input type="submit" value="Signup">
+        <input type="hidden" name="errorUrl" value="http://demo.qualityunit.com/pax4/html_signup_form.php">
+        <input type="hidden" name="successUrl" value="http://demo.qualityunit.com/pax4/after_signup.php">
+    </fieldset>
+</form>
+   
+  
+   <footer>
+       <div class="footer">
+       <div class="container">
+           <p class="text-muted">&copy; 2014 Baker Inc Inc.</p>
+        </div>
+       </div>
+    </footer>
+    </div>
+   
+</body>
+</html>
